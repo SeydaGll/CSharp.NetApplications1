@@ -1,0 +1,7 @@
+C:\Users\DragonGTX1050\Documents\visual studio 2017\Projects\1.ILKERISIK\9.gün\BubleSortDelegateOrnek\BubleSortDelegateOrnek\obj\Debug\BubleSortDelegateOrnek.csprojResolveAssemblyReference.cache
+C:\Users\DragonGTX1050\Documents\visual studio 2017\Projects\1.ILKERISIK\9.gün\BubleSortDelegateOrnek\BubleSortDelegateOrnek\obj\Debug\BubleSortDelegateOrnek.csproj.CoreCompileInputs.cache
+C:\Users\DragonGTX1050\Documents\visual studio 2017\Projects\1.ILKERISIK\9.gün\BubleSortDelegateOrnek\BubleSortDelegateOrnek\bin\Debug\BubleSortDelegateOrnek.exe.config
+C:\Users\DragonGTX1050\Documents\visual studio 2017\Projects\1.ILKERISIK\9.gün\BubleSortDelegateOrnek\BubleSortDelegateOrnek\bin\Debug\BubleSortDelegateOrnek.exe
+C:\Users\DragonGTX1050\Documents\visual studio 2017\Projects\1.ILKERISIK\9.gün\BubleSortDelegateOrnek\BubleSortDelegateOrnek\bin\Debug\BubleSortDelegateOrnek.pdb
+C:\Users\DragonGTX1050\Documents\visual studio 2017\Projects\1.ILKERISIK\9.gün\BubleSortDelegateOrnek\BubleSortDelegateOrnek\obj\Debug\BubleSortDelegateOrnek.exe
+C:\Users\DragonGTX1050\Documents\visual studio 2017\Projects\1.ILKERISIK\9.gün\BubleSortDelegateOrnek\BubleSortDelegateOrnek\obj\Debug\BubleSortDelegateOrnek.pdb

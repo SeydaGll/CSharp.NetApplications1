@@ -1,0 +1,7 @@
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LambdaOrnek\LambdaOrnek\bin\Debug\LambdaOrnek.exe.config
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LambdaOrnek\LambdaOrnek\bin\Debug\LambdaOrnek.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LambdaOrnek\LambdaOrnek\bin\Debug\LambdaOrnek.pdb
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LambdaOrnek\LambdaOrnek\obj\Debug\LambdaOrnek.csprojResolveAssemblyReference.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LambdaOrnek\LambdaOrnek\obj\Debug\LambdaOrnek.csproj.CoreCompileInputs.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LambdaOrnek\LambdaOrnek\obj\Debug\LambdaOrnek.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LambdaOrnek\LambdaOrnek\obj\Debug\LambdaOrnek.pdb

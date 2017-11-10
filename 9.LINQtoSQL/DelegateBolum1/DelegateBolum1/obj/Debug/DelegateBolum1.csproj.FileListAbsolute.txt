@@ -1,0 +1,7 @@
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\DelegateBolum1\DelegateBolum1\bin\Debug\DelegateBolum1.exe.config
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\DelegateBolum1\DelegateBolum1\bin\Debug\DelegateBolum1.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\DelegateBolum1\DelegateBolum1\bin\Debug\DelegateBolum1.pdb
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\DelegateBolum1\DelegateBolum1\obj\Debug\DelegateBolum1.csprojResolveAssemblyReference.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\DelegateBolum1\DelegateBolum1\obj\Debug\DelegateBolum1.csproj.CoreCompileInputs.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\DelegateBolum1\DelegateBolum1\obj\Debug\DelegateBolum1.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\DelegateBolum1\DelegateBolum1\obj\Debug\DelegateBolum1.pdb

@@ -1,0 +1,14 @@
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\2.gün\DizilereGiris\DizilereGiris\bin\Debug\DizilereGiris.exe.config
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\2.gün\DizilereGiris\DizilereGiris\bin\Debug\DizilereGiris.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\2.gün\DizilereGiris\DizilereGiris\bin\Debug\DizilereGiris.pdb
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\2.gün\DizilereGiris\DizilereGiris\obj\Debug\DizilereGiris.csprojResolveAssemblyReference.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\2.gün\DizilereGiris\DizilereGiris\obj\Debug\DizilereGiris.csproj.CoreCompileInputs.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\2.gün\DizilereGiris\DizilereGiris\obj\Debug\DizilereGiris.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\2.gün\DizilereGiris\DizilereGiris\obj\Debug\DizilereGiris.pdb
+D:\VisualStudio\Projects\1.ILKERISIK\2.gün\DizilereGiris\DizilereGiris\bin\Debug\DizilereGiris.exe.config
+D:\VisualStudio\Projects\1.ILKERISIK\2.gün\DizilereGiris\DizilereGiris\bin\Debug\DizilereGiris.exe
+D:\VisualStudio\Projects\1.ILKERISIK\2.gün\DizilereGiris\DizilereGiris\bin\Debug\DizilereGiris.pdb
+D:\VisualStudio\Projects\1.ILKERISIK\2.gün\DizilereGiris\DizilereGiris\obj\Debug\DizilereGiris.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Projects\1.ILKERISIK\2.gün\DizilereGiris\DizilereGiris\obj\Debug\DizilereGiris.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\1.ILKERISIK\2.gün\DizilereGiris\DizilereGiris\obj\Debug\DizilereGiris.exe
+D:\VisualStudio\Projects\1.ILKERISIK\2.gün\DizilereGiris\DizilereGiris\obj\Debug\DizilereGiris.pdb

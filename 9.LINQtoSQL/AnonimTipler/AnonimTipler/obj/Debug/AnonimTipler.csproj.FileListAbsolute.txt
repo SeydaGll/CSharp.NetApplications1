@@ -1,0 +1,7 @@
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\AnonimTipler\AnonimTipler\bin\Debug\AnonimTipler.exe.config
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\AnonimTipler\AnonimTipler\bin\Debug\AnonimTipler.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\AnonimTipler\AnonimTipler\bin\Debug\AnonimTipler.pdb
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\AnonimTipler\AnonimTipler\obj\Debug\AnonimTipler.csprojResolveAssemblyReference.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\AnonimTipler\AnonimTipler\obj\Debug\AnonimTipler.csproj.CoreCompileInputs.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\AnonimTipler\AnonimTipler\obj\Debug\AnonimTipler.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\AnonimTipler\AnonimTipler\obj\Debug\AnonimTipler.pdb

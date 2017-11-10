@@ -1,0 +1,9 @@
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\8.gün\ADONet2BaglantiExpress\ADONet2BaglantiExpress\bin\Debug\Database1.mdf
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\8.gün\ADONet2BaglantiExpress\ADONet2BaglantiExpress\bin\Debug\Database1_log.ldf
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\8.gün\ADONet2BaglantiExpress\ADONet2BaglantiExpress\bin\Debug\ADONet2BaglantiExpress.exe.config
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\8.gün\ADONet2BaglantiExpress\ADONet2BaglantiExpress\bin\Debug\ADONet2BaglantiExpress.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\8.gün\ADONet2BaglantiExpress\ADONet2BaglantiExpress\bin\Debug\ADONet2BaglantiExpress.pdb
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\8.gün\ADONet2BaglantiExpress\ADONet2BaglantiExpress\obj\Debug\ADONet2BaglantiExpress.csprojResolveAssemblyReference.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\8.gün\ADONet2BaglantiExpress\ADONet2BaglantiExpress\obj\Debug\ADONet2BaglantiExpress.csproj.CoreCompileInputs.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\8.gün\ADONet2BaglantiExpress\ADONet2BaglantiExpress\obj\Debug\ADONet2BaglantiExpress.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\8.gün\ADONet2BaglantiExpress\ADONet2BaglantiExpress\obj\Debug\ADONet2BaglantiExpress.pdb

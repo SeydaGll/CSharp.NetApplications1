@@ -1,0 +1,2 @@
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\2.gün\Gun2\Gun2\obj\Debug\Gun2.csprojResolveAssemblyReference.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\2.gün\Gun2\Gun2\obj\Debug\Gun2.csproj.CoreCompileInputs.cache

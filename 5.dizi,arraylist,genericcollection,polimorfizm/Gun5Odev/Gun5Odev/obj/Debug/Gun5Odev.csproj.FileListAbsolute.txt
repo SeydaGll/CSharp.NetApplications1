@@ -1,0 +1,7 @@
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\Gun5Odev\Gun5Odev\bin\Debug\Gun5Odev.exe.config
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\Gun5Odev\Gun5Odev\bin\Debug\Gun5Odev.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\Gun5Odev\Gun5Odev\bin\Debug\Gun5Odev.pdb
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\Gun5Odev\Gun5Odev\obj\Debug\Gun5Odev.csprojResolveAssemblyReference.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\Gun5Odev\Gun5Odev\obj\Debug\Gun5Odev.csproj.CoreCompileInputs.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\Gun5Odev\Gun5Odev\obj\Debug\Gun5Odev.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\Gun5Odev\Gun5Odev\obj\Debug\Gun5Odev.pdb

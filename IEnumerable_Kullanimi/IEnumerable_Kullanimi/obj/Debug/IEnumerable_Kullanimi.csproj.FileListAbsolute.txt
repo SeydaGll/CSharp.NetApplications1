@@ -1,0 +1,10 @@
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\IEnumerable_Kullanimi\IEnumerable_Kullanimi\bin\Debug\IEnumerable_Kullanimi.exe.config
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\IEnumerable_Kullanimi\IEnumerable_Kullanimi\bin\Debug\IEnumerable_Kullanimi.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\IEnumerable_Kullanimi\IEnumerable_Kullanimi\bin\Debug\IEnumerable_Kullanimi.pdb
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\IEnumerable_Kullanimi\IEnumerable_Kullanimi\obj\Debug\IEnumerable_Kullanimi.csprojResolveAssemblyReference.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\IEnumerable_Kullanimi\IEnumerable_Kullanimi\obj\Debug\IEnumerable_Kullanimi.Form1.resources
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\IEnumerable_Kullanimi\IEnumerable_Kullanimi\obj\Debug\IEnumerable_Kullanimi.Properties.Resources.resources
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\IEnumerable_Kullanimi\IEnumerable_Kullanimi\obj\Debug\IEnumerable_Kullanimi.csproj.GenerateResource.Cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\IEnumerable_Kullanimi\IEnumerable_Kullanimi\obj\Debug\IEnumerable_Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\IEnumerable_Kullanimi\IEnumerable_Kullanimi\obj\Debug\IEnumerable_Kullanimi.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\IEnumerable_Kullanimi\IEnumerable_Kullanimi\obj\Debug\IEnumerable_Kullanimi.pdb

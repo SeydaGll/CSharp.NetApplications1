@@ -1,0 +1,7 @@
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\DiziveArrayList\DiziveArrayList\bin\Debug\DiziveArrayList.exe.config
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\DiziveArrayList\DiziveArrayList\bin\Debug\DiziveArrayList.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\DiziveArrayList\DiziveArrayList\bin\Debug\DiziveArrayList.pdb
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\DiziveArrayList\DiziveArrayList\obj\Debug\DiziveArrayList.csprojResolveAssemblyReference.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\DiziveArrayList\DiziveArrayList\obj\Debug\DiziveArrayList.csproj.CoreCompileInputs.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\DiziveArrayList\DiziveArrayList\obj\Debug\DiziveArrayList.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\DiziveArrayList\DiziveArrayList\obj\Debug\DiziveArrayList.pdb

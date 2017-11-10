@@ -1,0 +1,7 @@
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\10.gün\StringMetotlarinaGiris\StringMetotlarinaGiris\bin\Debug\StringMetotlarinaGiris.exe.config
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\10.gün\StringMetotlarinaGiris\StringMetotlarinaGiris\bin\Debug\StringMetotlarinaGiris.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\10.gün\StringMetotlarinaGiris\StringMetotlarinaGiris\bin\Debug\StringMetotlarinaGiris.pdb
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\10.gün\StringMetotlarinaGiris\StringMetotlarinaGiris\obj\Debug\StringMetotlarinaGiris.csprojResolveAssemblyReference.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\10.gün\StringMetotlarinaGiris\StringMetotlarinaGiris\obj\Debug\StringMetotlarinaGiris.csproj.CoreCompileInputs.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\10.gün\StringMetotlarinaGiris\StringMetotlarinaGiris\obj\Debug\StringMetotlarinaGiris.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\10.gün\StringMetotlarinaGiris\StringMetotlarinaGiris\obj\Debug\StringMetotlarinaGiris.pdb

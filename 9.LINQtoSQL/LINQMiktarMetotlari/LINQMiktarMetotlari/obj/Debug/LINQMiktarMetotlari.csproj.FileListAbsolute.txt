@@ -1,0 +1,6 @@
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LINQMiktarMetotlari\LINQMiktarMetotlari\bin\Debug\LINQMiktarMetotlari.exe.config
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LINQMiktarMetotlari\LINQMiktarMetotlari\bin\Debug\LINQMiktarMetotlari.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LINQMiktarMetotlari\LINQMiktarMetotlari\bin\Debug\LINQMiktarMetotlari.pdb
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LINQMiktarMetotlari\LINQMiktarMetotlari\obj\Debug\LINQMiktarMetotlari.csproj.CoreCompileInputs.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LINQMiktarMetotlari\LINQMiktarMetotlari\obj\Debug\LINQMiktarMetotlari.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LINQMiktarMetotlari\LINQMiktarMetotlari\obj\Debug\LINQMiktarMetotlari.pdb

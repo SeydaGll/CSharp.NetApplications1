@@ -1,0 +1,9 @@
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\8.gün\AdoNet2DisconnectionExpress\AdoNet2DisconnectionExpress\bin\Debug\Database1.mdf
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\8.gün\AdoNet2DisconnectionExpress\AdoNet2DisconnectionExpress\bin\Debug\Database1_log.ldf
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\8.gün\AdoNet2DisconnectionExpress\AdoNet2DisconnectionExpress\bin\Debug\AdoNet2DisconnectionExpress.exe.config
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\8.gün\AdoNet2DisconnectionExpress\AdoNet2DisconnectionExpress\bin\Debug\AdoNet2DisconnectionExpress.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\8.gün\AdoNet2DisconnectionExpress\AdoNet2DisconnectionExpress\bin\Debug\AdoNet2DisconnectionExpress.pdb
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\8.gün\AdoNet2DisconnectionExpress\AdoNet2DisconnectionExpress\obj\Debug\AdoNet2DisconnectionExpress.csprojResolveAssemblyReference.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\8.gün\AdoNet2DisconnectionExpress\AdoNet2DisconnectionExpress\obj\Debug\AdoNet2DisconnectionExpress.csproj.CoreCompileInputs.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\8.gün\AdoNet2DisconnectionExpress\AdoNet2DisconnectionExpress\obj\Debug\AdoNet2DisconnectionExpress.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\8.gün\AdoNet2DisconnectionExpress\AdoNet2DisconnectionExpress\obj\Debug\AdoNet2DisconnectionExpress.pdb

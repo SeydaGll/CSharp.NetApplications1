@@ -1,0 +1,7 @@
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\10.gün\DateTimeOrnek\DateTimeOrnek\bin\Debug\DateTimeOrnek.exe.config
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\10.gün\DateTimeOrnek\DateTimeOrnek\bin\Debug\DateTimeOrnek.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\10.gün\DateTimeOrnek\DateTimeOrnek\bin\Debug\DateTimeOrnek.pdb
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\10.gün\DateTimeOrnek\DateTimeOrnek\obj\Debug\DateTimeOrnek.csprojResolveAssemblyReference.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\10.gün\DateTimeOrnek\DateTimeOrnek\obj\Debug\DateTimeOrnek.csproj.CoreCompileInputs.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\10.gün\DateTimeOrnek\DateTimeOrnek\obj\Debug\DateTimeOrnek.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\10.gün\DateTimeOrnek\DateTimeOrnek\obj\Debug\DateTimeOrnek.pdb

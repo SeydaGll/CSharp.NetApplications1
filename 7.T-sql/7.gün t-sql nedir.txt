@@ -1,0 +1,155 @@
+T-SQL NEDÝR ?
+SQL SERVER ile Client yani istemci arasýndaki veri 
+iletiþimini saðlayan bir mekanizmadýr. bunun sayesinde sql
+server ile iliþkileri düzenli bir þekilde ifade edebiliriz
+..t-sql ile bizim için sql server içerisinde bulunan
+verilerin silme ekleme güncelleme raporlama ve sorgulama
+iþlemlerini bunun içerisindeki deðerler sayesinde yapabiliriz.
+.. bunun içeriisndeki deðerler select update delete insert
+olarak deðerlendirilen bazý t-sql deðerleri vardýr.
+
+SELECT--SEÇ
+SELECT * FROM Musteriler
+--seçilmesi gerek tablo musterilerdir.* tüm deðerleri
+seçmesi için konulur. tüm sütunlar gelicek
+
+SELECT Adiniz FROM Musteriler
+
+SELECT Adiniz as FirstName,Soyadiniz as LastName FROM Musteriler
+- isim deðiþtirdik..
+
+SELECT Adiniz +' '+Soyadiniz as AdveSoyad FROM Musteriler
+- adý ve soyadý birleþtirdik ve sutün ismini adsoyad yaptýk
+-sütnlarýn hepsini tek bir sütýn halinde gösterebilrsin
+
+SELECT Adiniz +' '+Soyadiniz as AdveSoyad FROM Musteriler
+WHERE Sehir='Konya'
+-Konyadakiler gelir
+
+INSERT- INSERT INTO
+INSERT Musteriler( Adiniz,Soyadiniz,Email,KrediLimiti,KayitTarihi)
+VALUE('Þevket','Tiryaki','sevket@tiryaki.com',10000,31/05/2011)
+
+SELECT * FROM Musteriler WHERE Soyadiniz='TÝRYAKÝ'
+
+INSERT--EKLE
+INSERT Musteriler( Adiniz,Soyadiniz,Email,KrediLimiti,KayitTarihi)
+VALUE('Fatih','Güneþ','fatih@güneþ.com',20000,31/05/2011)
+
+ÝNSERT ÝNTO Ortaklar (Adi,Soyadi,Tarih) 
+select Adiniz,Soyadiniz, GETDATE() from Musteriler
+WHERE Soyadiniz='Tiryaki'
+
+(INSERT ÝNTO TABlodan tabloya veri eklemek için kullanýlýr
+.tablonun içerisinde bulunan deðerleri git ve baþka bir
+tablodan oku ve daha sonra benim belirttiðim tablonun
+içerisine kaydet. böylece farklý tablolardan verileri alýp
+farklý farklý tablolara kaydedebilirsiniz...)  
+
+UPDATE--GÜNCELLE
+SELECT * FROM Musteriler WHERE MusteriID=1006
+UPDATE  Musteriler SET Adiniz='Ahmet',Soyadiniz='Yorulmaz'
+,Email='ahmet@yorulmaz.com'
+WHERE MusteriID=1006
+
+Þart koþmazsak tüm tabloda ayný veriler yazar....DÝKKAT!!!
+
+DELETE-Verilerin silinmesi için kullanýlýr
+
+SELECT * FROM Musteriler WHERE MusteriID=444
+DELECT FROM Musteriler Where MusteriID=444(silmez hata verir
+. tablolarýn birbiriyle iliþkileri olduðunda silme olmaz
+. satýþlar tablosunu silmeden musteriler tablosundakini
+silemeyiz.müsteriler silinir se satiþlar ortada kalýr ve
+silmesine bu nedenle iliþkisellikten dolayý izin vermez.
+bu iliþki nasýl kaldýrýlýr?? foreign key e týkladýðýmýzda
+propertty den INSERT AND UPDATE Specification den bir deðer
+silinirken yada güncellenirken baðlantýsý oldupu tablolarý da
+güncelle yada sil adý altýnda bulunan 2 adet ayar var.
+Delete Rule: Cascade( silinebilir durumu ifade eder)
+UPDATE Rule: Cascade..yani tüm veriler istedðiniz
+doðrultusunda gerçekleþir.. Set Null::cascade gibidir farký
+silinen yada güncellenen verinin null deðer olmasýný söyler
+set default:: önceden varsayýlan olarak deðer verdiysen varsa
+yýlan olarak bu ayarlarý yapar.. biz cascade yapýyoruz.. veriyi
+sildiðim zaman satýþlarda da silinir...)
+
+DELETE FROM Ortaklar .. tüm veriler gider DÝKKAT where sartý
+koymayý unutma DÝKKKAT!!!
+
+DELETE VE UPDATE Durumunda cascade edebilirisniz....
+
+WHERE nedir???---
+verilerin belirli kriterlere göre listelenmesi yada filtrelenmesi
+için kullanýlan söz dizimidir...
+
+SELECT * FROM Musteriler where Sehir !='Ankara'  != HARÝCÝNDE
+SELECT * FROM Musteriler where Sehir <>'Ankara'  <> haricinde
+SELECT * FROM Musteriler where KrediLimit > 450
+SELECT * FROM Musteriler where (KrediLimit/2) > 450
+SELECT * FROM Musteriler where KrediLimit > 4500 and KrediLimit <4600
+SELECT * FROM Musteriler where KrediLimit between 4500 and 4600( iki defa kredilimit yazmaktan kurtarýr.<yukardaki ile ayný)
+SELECT * FROM Musteriler where KayitTarihi > '01/01/2011'
+SELECT * FROM Musteriler where KayitTarihi > '01/01/2011' and KayitTarihi < ''
+SELECT * FROM Musteriler where Adiniz ='ilker' or Soyadiniz='YoruLMAZ'
+SELECT * FROM Musteriler where Sehir='Konya' or Sehir='ankara' or Sehir='Bursaa'
+SELECT * FROM Musteriler where Sehir in ('Konya' , 'ankara' , 'bursa')--kýsa yolu
+SELECT * FROM Musteriler where Soyadiniz like 'AL%'-ilk ikii harfini al olanlarýný geitr
+SELECT * FROM Musteriler where Soyadiniz like '%YA'-SOn iki hanesi ya olnalr
+SELECT * FROM Musteriler where Soyadiniz like 'k%a'- baþ harfi k son harf a olnlr
+
+ORDER BY ve TOP
+metinsel metinlerin a-z z-a , rakamlarýn kü-bü bü-yü tarihsel 
+metinlerin es-ye ye-es sýralmaa
+
+SELECT * FROM Musteriler ORDER BY Soyadýnýz     a-z
+
+SELECT * FROM Musteriler ORDER BY Soyadýnýz DESC    z-a
+
+SELECT * FROM Musteriler ORDER BY Soyadýnýz,AdiniZ (öncelik Soyadýnýz)
+
+SELECT * FROM Musteriler ORDER BY KrediLimiti    kü-bü
+
+SELECT * FROM Musteriler ORDER BY KayitTarihi   es-ye
+
+SELECT top 5 * FROM Musteriler ORDER BY KrediLimiti desc( en yüksek ilk 5 gelir)
+
+SELECT top 5 * FROM Musteriler where Sehir='Konya'p
+ORDER BY KrediLimiti desc 
+
+INNER  JOIN
+ayný anda farklý tablolarda sorgu yapýp çýkan sonuçlarý iliþ
+kisel olarak göstermek.
+bu sorguyu yapmak için ayný anda 2 tane tabloya ihtiyaç var
+istediðimiz: bir müþterinin ayný anda isminin soyisminin
+kayýt tarihinin satýþ tarihinin satýþ miktarýnýn ne þekilde
+gerçekleþtiðini bulmak
+bunlar farklý farklý tablolarda
+çünkü normalleþtirme iþlemine gittik
+git önce müþteriler tablosunu çaðýr
+ SELECT MusteriID,adýnýz,soyadýnýz,satistarihi  FROM Musteriler
+inner joýn Satislar on 
+
+SELECT Musteriler.MusteriID,adýnýz,soyadýnýz,satýþtarihi
+FROM Musteriler inner joýn Satislar on Musteriler.MusterýID
+= Satýþlar.MýusteriID  
+
+SELECT m.MusteriID,m.adýnýz,m.soyadýnýz,s.satýþtarihi
+FROM Musteriler m inner joýn Satislar s on m.MusterýID
+= s.MýusteriID WHERE m.MusteriID = 74
+
+SELECT m.MusteriID,m.adýnýz,m.soyadýnýz,s.satýþtarihi
+SU.satýlanürünler FROM Musteriler m inner joýn Satislar s on m.MusterýID
+= s.MýusteriID 
+ÝNNER JOIN satýlanürünler su on s.satýsID=su.satýsID
+WHERE m.MusteriID = 74
+
+
+
+
+
+
+
+
+
+ 

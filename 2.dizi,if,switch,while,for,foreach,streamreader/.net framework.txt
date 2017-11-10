@@ -1,0 +1,83 @@
+ yazýlan kodlar satýr satýr iþleme tabi tutulur.
+ 
+ .net framework cevirme iþlemi yapar. c# tarafýna yazýlan kodlar .net tarafýnda çevrilir
+ 
+ uygulama çalýþtýrýlabilmesi için c# tarafýndan derlenmek zorundadýr.
+
+ derleme sýrasýnda c# kodlarý makine diline cevirir.10101 diline çevrilir yani.ortak dil
+
+ derleme yapýlmasý için c# tarafýnda mutlaka .net framework e ihtiyac vardýr. yani 
+yazýlan kodlarý c# .net olmadan okuyamaz anlayamaz yorumlayamaz derleyemez. c# ýn arka
+sýnda .net framework vardýr ve bu kütüphane içersindeki kodlar sayesinde c#  aslýnda
+anlamlý bir dile tabi olmuþtur
+
+ derleme sonucunda .exe ve .dll ortaya çýkar. .exe kavramý windows içersinde  çalýþtýrý
+labilen uygulamalar olarak bilinir. .exe (çalýþtýrýlabilir uygulama)
+
+ .dll kütüphanedir. projelerimizin içersine bazý class projeleri eklediðimiz takdirde
+class library olan projeler bizim için dll uzantýlý dosyalar vericektir. bizim için 
+kütüphane kavramýndadýr ve buna göre bir kütüphaneyi kendimizde oluþturabiliriz
+
+ derleme iþlemi 2 aþamada yapýlýr
+ ayrýþtýrma ve derleme
+ 1) CIL.. ORTAK DÝL
+DERLEME anýnda ilk önce kodlar cýl sayesinde cevrilir.
+sonra ön yükleme yapýlýr
+
+ 2) derleme iþlemi
+ donaným ve iþletim sisteminin özellklerini toplar
+ JIT-> SON kullanýcýnýn kullanacaðý þekilde kodlaý derleme ve montajlama iþlemi yapýlacaktýr
+ 
+ design time-> compile time -> run time -> debug time
+ desing time programcý tarafýndan iþlenen zaman
+ compile time. c# aktif olduðu zamandýr.c# üzerine düþen görevi yapar
+ run time.uygulamanýn baþladýðý an . exe ve dll kavramlarý çýkar
+ debug time. projenin içersinde hata ile karþýlaþýlýrsa uyarýlar ile bize gösterilen zaman
+
+ derleme için CIL devreye girecek ve c# diline göre yorumlayacak
+ JIT sayesinde kullanýcý optimizasyon yapar
+ Kullanýcý ayarlarý yapýlacak
+ UYGUlama geliþtirme iþlemi
+
+ if(ifade) = tamamý söz dizimi
+
+ y= x+7;  x+7 ifadedir. x operanttýr , + operatördür
+
+ operands : object, string, deðiþkenler,console
+
+ operator : +, =,-,*,/, == ( karþýlaþtýrma.. karþýsýndaki deðere eþit mi diye sorar)
+
+ deðer atama için = kullanýlýr. x=5;
+ karþýlaþtýrma iþlemi if(x==y) x acaba y ye eþit mi diye SORAR !!
+
+ <,<=,,>,>=,&&,|| bunlar genelde if de ifade olarak kullanýlýr.&& genelde bu kullanýlýr
+
+ ? operatörü
+ message=(x==1)?"500.000TL":"10.000TL";
+ (tek satýr if olarak  belittiðimiz bir yapý içersinde kullanabiliriz.eðer ki x, 1 e
+eþit ise bizim için burdan sorar , x acaba 1 e eþit mi ? eðer ki eþit ise bizim için 1.
+ifadeyi verir yani x 1 ise eeðer 500.000 TL cevabýný mesaj adlý deðiþkene aktarýr.
+eðer ki false ise yani x 1 e eþit deðil ise 10.000TL adlý deðeri message a verir. IF BLOÐUNUN
+AYNISI ? ÝLE YAPABÝLÝYORUZ..
+
+ Console.ReadLine(); . bizim Console classý nýn içerisine girmemiz için kullandýðýmýz
+bir anahtardýr. () eðerki bir metod kullanýyorsak bunun bir parantezi olmak zorundadýr
+bu parantezlerin ihtiyaca göre bazen argüman deðeri alabilir,parametre deðeri
+alabilir bazende ihtiyac duymadan örnek old gibi bir ifade verebilir.
+
+ operands--> string, object, Console
+
+ {} kod bloklarý arasýnda olmalýdýr. c# iki parantez arasýnda deðerlendirilir..
+
+ c# kodlamalarda mantýklý cümleler ve kodlar kullanýlýr. mantýklý ve hiyerarþik
+bir kodlamaya sahiptir. kodlar ingilizce grammer a göre tasarlanmýþtýr.. buna göre
+hata uyarýlarý verebilir. kod yazraken ingilizce grame ra ve kodlarn mantýklý olmasýna dikkat
+etmeliyiz.
+  
+ 
+ 
+
+ 
+ 
+
+  

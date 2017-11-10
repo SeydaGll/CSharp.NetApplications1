@@ -1,0 +1,18 @@
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\2.gün\Gun2Odev\Gun2Odev\bin\Debug\SifreliMetin.txt
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\2.gün\Gun2Odev\Gun2Odev\bin\Debug\Gun2Odev.exe.config
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\2.gün\Gun2Odev\Gun2Odev\bin\Debug\Gun2Odev.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\2.gün\Gun2Odev\Gun2Odev\bin\Debug\Gun2Odev.pdb
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\2.gün\Gun2Odev\Gun2Odev\obj\Debug\Gun2Odev.csprojResolveAssemblyReference.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\2.gün\Gun2Odev\Gun2Odev\obj\Debug\Gun2Odev.csproj.CoreCompileInputs.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\2.gün\Gun2Odev\Gun2Odev\obj\Debug\Gun2Odev.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\2.gün\Gun2Odev\Gun2Odev\obj\Debug\Gun2Odev.pdb
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\2.gün\Gun2Odev\Gun2Odev\bin\Debug\SifresizMetin.txt
+D:\VisualStudio\Projects\1.ILKERISIK\2.dizi,if,switch,while,for,foreach,streamreader\Odev\Gun2Odev\bin\Debug\SifreliMetin.txt
+D:\VisualStudio\Projects\1.ILKERISIK\2.dizi,if,switch,while,for,foreach,streamreader\Odev\Gun2Odev\bin\Debug\SifresizMetin.txt
+D:\VisualStudio\Projects\1.ILKERISIK\2.dizi,if,switch,while,for,foreach,streamreader\Odev\Gun2Odev\bin\Debug\Gun2Odev.exe.config
+D:\VisualStudio\Projects\1.ILKERISIK\2.dizi,if,switch,while,for,foreach,streamreader\Odev\Gun2Odev\bin\Debug\Gun2Odev.exe
+D:\VisualStudio\Projects\1.ILKERISIK\2.dizi,if,switch,while,for,foreach,streamreader\Odev\Gun2Odev\bin\Debug\Gun2Odev.pdb
+D:\VisualStudio\Projects\1.ILKERISIK\2.dizi,if,switch,while,for,foreach,streamreader\Odev\Gun2Odev\obj\Debug\Gun2Odev.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Projects\1.ILKERISIK\2.dizi,if,switch,while,for,foreach,streamreader\Odev\Gun2Odev\obj\Debug\Gun2Odev.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\1.ILKERISIK\2.dizi,if,switch,while,for,foreach,streamreader\Odev\Gun2Odev\obj\Debug\Gun2Odev.exe
+D:\VisualStudio\Projects\1.ILKERISIK\2.dizi,if,switch,while,for,foreach,streamreader\Odev\Gun2Odev\obj\Debug\Gun2Odev.pdb

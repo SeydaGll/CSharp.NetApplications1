@@ -1,0 +1,7 @@
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\ObjectveCollectionDegerAtama\ObjectveCollectionDegerAtama\bin\Debug\ObjectveCollectionDegerAtama.exe.config
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\ObjectveCollectionDegerAtama\ObjectveCollectionDegerAtama\bin\Debug\ObjectveCollectionDegerAtama.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\ObjectveCollectionDegerAtama\ObjectveCollectionDegerAtama\bin\Debug\ObjectveCollectionDegerAtama.pdb
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\ObjectveCollectionDegerAtama\ObjectveCollectionDegerAtama\obj\Debug\ObjectveCollectionDegerAtama.csprojResolveAssemblyReference.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\ObjectveCollectionDegerAtama\ObjectveCollectionDegerAtama\obj\Debug\ObjectveCollectionDegerAtama.csproj.CoreCompileInputs.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\ObjectveCollectionDegerAtama\ObjectveCollectionDegerAtama\obj\Debug\ObjectveCollectionDegerAtama.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\ObjectveCollectionDegerAtama\ObjectveCollectionDegerAtama\obj\Debug\ObjectveCollectionDegerAtama.pdb

@@ -1,0 +1,7 @@
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\AnonimMetotlar\AnonimMetotlar\bin\Debug\AnonimMetotlar.exe.config
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\AnonimMetotlar\AnonimMetotlar\bin\Debug\AnonimMetotlar.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\AnonimMetotlar\AnonimMetotlar\bin\Debug\AnonimMetotlar.pdb
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\AnonimMetotlar\AnonimMetotlar\obj\Debug\AnonimMetotlar.csprojResolveAssemblyReference.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\AnonimMetotlar\AnonimMetotlar\obj\Debug\AnonimMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\AnonimMetotlar\AnonimMetotlar\obj\Debug\AnonimMetotlar.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\AnonimMetotlar\AnonimMetotlar\obj\Debug\AnonimMetotlar.pdb

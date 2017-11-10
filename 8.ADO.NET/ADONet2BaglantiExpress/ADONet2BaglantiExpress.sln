@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADONet2BaglantiExpress", "ADONet2BaglantiExpress\ADONet2BaglantiExpress.csproj", "{9B699C02-0C0B-440C-A522-FD13BF9524CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B699C02-0C0B-440C-A522-FD13BF9524CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B699C02-0C0B-440C-A522-FD13BF9524CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B699C02-0C0B-440C-A522-FD13BF9524CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B699C02-0C0B-440C-A522-FD13BF9524CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEA07418-7529-4BC3-BB53-D737DD1FA0DF}
+	EndGlobalSection
+EndGlobal

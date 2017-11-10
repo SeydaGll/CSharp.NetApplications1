@@ -1,0 +1,38 @@
+ Araba benimArabam;
+ benimArabam= new Araba();
+
+
+ new yeni demektir. new ile yeni bir Araba örneði üret demiþ oldum
+
+ neden Araba üretildi? burada tanýmlanmýþ olan bir deðiþken deðeri vardýr ( Araba benimArabam) yani bir Araba class ým vardýr ve bunun ismide benimArabam adý altýnda deðerlendirilmiþtir
+yani bir deðiþken tanýmlama iþlemi yapýlmýþtýr. daha sonra bu deðerin içerisine yeni bir deðer initialize edilmesi için  benimArabam= new Araba(); bu kod satýrý yazýlmýþtýr.
+benimArabam adý altýndaki  deðerin içeriðine new keyword ü ile yeni bir Araba deðeri eklenmiþtir. 
+ 
+ new keywordü ile yeni bir iþlem yaptýðýna göre neden Araba deðeri eklendi. bir baþka deðer eklenemezmiydi??
+ elmalarý elma kasalara, armutlarý armut kasalarýna atarsýn. ayný mantýk.yani Araba ifadesi üretilmiþ ise new keyword ü ile bunun içeriðine sadece Araba deðeri eklenebilir. çünkü Araba nýn
+içeriðine bir traktör bir motorsiklet gibi bazý tabirler eklenemez ve bundan dolayýda  new keywordünün kullaným þekli ve amacý bu þekilde dir diyebliriz.
+
+ New ile üretilen yeni örnekler referans tiplerdendir. yani object gibi.. 
+
+ Steak ve Heap nedir ? steak bizim için deðiþken deðerlerimizi tutan iþlemcimzin (CPU) hafýzasýdýr. Value tipler steak te yer alýr yani bizim için deðer tipleri steak te yer alýr
+steak iþlemci hafýzasýdýr(CPU). bunlarýn hafýzasýda 2mb 4mb ve yeni nesilde 8mb  olarak sýnýrlandýrýlmýþtýr.. steak içerisinde yer alan örneðin int,decimal,bool önceden tanýmlanmýþ deðer
+leri vardýr. bunnlarýn kapladýklarý alanlar da sabittir ve önceden bilinmektedir. yani herhangi bir deðer aþýmý iþlemi yapýlmaz. 
+
+ heap: referans tipleri içerisinde bulunduran RAM olarak bildiðimiz depolama birimidir. yani bilgisayarýmzýn iþlemcisinin haricinde hafýza olarak birde RAM Ý vardýr. ve RAM YENi nesil 
+iþlemciler üzerinden 6 ile 8gb gibi büyüklüklerde olmaktadýr. iþlemci 4 mb iken , ram yani heap 6-4 gb gibi gigabyte larla tartýþýlacak boyutlardadýr. bundan dolayý herhangi bir kýyaslama
+durumunda heap kat kat büyüktür.
+
+ yani bizim için referans tipler yani object niteliiðinde olan deðerler ram de yer alýr ve steak te ise value tipler yani int gibi deðerler yer alýr
+ 
+ ANCAK bir referans tipi RAM e yazýlmadan önce iþlemci üzerine bir ID býrakýlýr ve bu çaðrýldýðý anda da iþlemciye gidilir ID ile sorulur ve bu ID nin yerindeki RAM in adresi verilir
+(iþlemci(steak) de bir referans ID bulunur ve bu ADRESle kayýt edilir) buna görede bir iletiþim saðlamasý durumunda bizim için referans tipin yani  buradaki deðerlerin ne þekilde 
+ifade edildiðini görmüþ oluruz. buna göre new keyword ü ile bulunan deðerler referans tipindedir. ör object,string referans tipidir. ör string boyutu belli olmayan metinler bu string
+içeriðine yazdýrýlabilir. ve bununda herhangi bir boyutunun belli olmadýðýndan dolayý ram e yazýlmak mecburiyetindedir diyebilriz. çünkü boyutu belli olmadýðýndan dolayý 4mb lik bir yere
+yazamayýz . 
+
+ NEW KEYWORD ü ile üretilen tüm tabirler referans tipindedir ve bundan dolayýda Heap de yani ram de yer alýr. sebebi ise yeni üretilen deðerin herhangi bir boyutunun belli olmadýðýndan
+dolayý bu þekilde bir iþlem yapýlmýþtýr ve bunda göre kategorize edilmiþtir..
+
+ Garbage Collector :  çöp toplayýcý : new keyword ü ile üretilen herþey gidicek bizim için heap te  yer alýcak. DÝP NOT: yeni üretilen deðerler eðer  kullannýlamzsa garbage collector diye 
+bilinen bir çöp toplayýcý vardýr. buda kullanýlmayan deðerleri hafýzada yer harcamasýn diye daha sonra silecektir .z zaman aþýmýna uðradýðý için  bunu ortadan kaldýracaktýr .garbage 
+collector bizim için hafýzayý temiz tutmak maksadýyla arkamýzdan býrakdýðýmýz ve kullanmadýðýmýz deðerleri toplýcak ve silecektir 

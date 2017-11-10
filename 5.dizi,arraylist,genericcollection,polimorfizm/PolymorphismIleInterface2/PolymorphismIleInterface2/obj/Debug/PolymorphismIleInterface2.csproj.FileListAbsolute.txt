@@ -1,0 +1,7 @@
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\PolymorphismIleInterface2\PolymorphismIleInterface2\bin\Debug\PolymorphismIleInterface2.exe.config
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\PolymorphismIleInterface2\PolymorphismIleInterface2\bin\Debug\PolymorphismIleInterface2.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\PolymorphismIleInterface2\PolymorphismIleInterface2\bin\Debug\PolymorphismIleInterface2.pdb
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\PolymorphismIleInterface2\PolymorphismIleInterface2\obj\Debug\PolymorphismIleInterface2.csproj.CoreCompileInputs.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\PolymorphismIleInterface2\PolymorphismIleInterface2\obj\Debug\PolymorphismIleInterface2.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\PolymorphismIleInterface2\PolymorphismIleInterface2\obj\Debug\PolymorphismIleInterface2.pdb
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\PolymorphismIleInterface2\PolymorphismIleInterface2\obj\Debug\PolymorphismIleInterface2.csprojResolveAssemblyReference.cache

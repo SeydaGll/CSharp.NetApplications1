@@ -1,0 +1,20 @@
+c# içerisinden veri tabanýna nasýl baðlanabilirim?
+1)veri tabnýndaki verileri okumak için veri tabanýna baðlanýlýr 
+ve bu iþlem gerçekleþtikten sonra ADO.NET 2.0 DataReader 
+ile veriler okunur..compact-express
+2) veri tabanýndan okunan deðerleri DATAset içerisine aktarýrýz
+sonra baðlantý kapandýktan sonra dataset içerisindeki deðer
+leri kullanabilriz...compact-express
+3)kod yazmadan DataBanding ile sorgular gönderilir ve 
+veriler çaðrýlabilir...bizim için veritabnýyla baðlantý
+saðlandýktan sonra bazý sorgular gönderilir ve cevaplarý daha
+sonra alýnýr.. databinding bizim için otomatik sorgu
+gönderen bir deðerdir.. bizim için tabloyu seçmek eklemek silmek
+için  direk olarak databinding içerisinde bulunan bazý propery
+ler metodlar kullnýlabilir..
+4)entity framework ile LINQ sayesinde veri tabanýýndan veriler
+alýnabilir.. veri iletiþimi kolaylaþýyor
+
+Datareader- veri okuma
+DataSet- veri ekleme
+Databinding- otomatik sorgu 

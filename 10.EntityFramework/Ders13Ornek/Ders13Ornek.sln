@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders13Ornek", "Ders13Ornek\Ders13Ornek.csproj", "{BD69D533-CF0B-4654-9E80-A63B6CEA65AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BenimKutuphanem", "BenimKutuphanem\BenimKutuphanem.csproj", "{4C509B61-9DAE-47E6-9EFD-CD0E93248033}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD69D533-CF0B-4654-9E80-A63B6CEA65AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD69D533-CF0B-4654-9E80-A63B6CEA65AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD69D533-CF0B-4654-9E80-A63B6CEA65AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD69D533-CF0B-4654-9E80-A63B6CEA65AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C509B61-9DAE-47E6-9EFD-CD0E93248033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C509B61-9DAE-47E6-9EFD-CD0E93248033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C509B61-9DAE-47E6-9EFD-CD0E93248033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C509B61-9DAE-47E6-9EFD-CD0E93248033}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C794EF54-2D2B-4185-A8BE-31FF00B7004F}
+	EndGlobalSection
+EndGlobal

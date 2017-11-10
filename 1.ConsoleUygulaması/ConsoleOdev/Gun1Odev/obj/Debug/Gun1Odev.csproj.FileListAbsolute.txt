@@ -1,0 +1,14 @@
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\Gun1Odev\Gun1Odev\bin\Debug\Gun1Odev.exe.config
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\Gun1Odev\Gun1Odev\bin\Debug\Gun1Odev.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\Gun1Odev\Gun1Odev\bin\Debug\Gun1Odev.pdb
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\Gun1Odev\Gun1Odev\obj\Debug\Gun1Odev.csprojResolveAssemblyReference.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\Gun1Odev\Gun1Odev\obj\Debug\Gun1Odev.csproj.CoreCompileInputs.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\Gun1Odev\Gun1Odev\obj\Debug\Gun1Odev.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\Gun1Odev\Gun1Odev\obj\Debug\Gun1Odev.pdb
+D:\VisualStudio\Projects\1.ILKERISIK\ConsoleUygulaması\Gun1Odev\Gun1Odev\bin\Debug\Gun1Odev.exe.config
+D:\VisualStudio\Projects\1.ILKERISIK\ConsoleUygulaması\Gun1Odev\Gun1Odev\bin\Debug\Gun1Odev.exe
+D:\VisualStudio\Projects\1.ILKERISIK\ConsoleUygulaması\Gun1Odev\Gun1Odev\bin\Debug\Gun1Odev.pdb
+D:\VisualStudio\Projects\1.ILKERISIK\ConsoleUygulaması\Gun1Odev\Gun1Odev\obj\Debug\Gun1Odev.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Projects\1.ILKERISIK\ConsoleUygulaması\Gun1Odev\Gun1Odev\obj\Debug\Gun1Odev.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\1.ILKERISIK\ConsoleUygulaması\Gun1Odev\Gun1Odev\obj\Debug\Gun1Odev.exe
+D:\VisualStudio\Projects\1.ILKERISIK\ConsoleUygulaması\Gun1Odev\Gun1Odev\obj\Debug\Gun1Odev.pdb

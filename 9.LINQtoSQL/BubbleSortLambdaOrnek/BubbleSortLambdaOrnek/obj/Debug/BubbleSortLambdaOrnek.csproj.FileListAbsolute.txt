@@ -1,0 +1,6 @@
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\BubbleSortLambdaOrnek\BubbleSortLambdaOrnek\bin\Debug\BubbleSortLambdaOrnek.exe.config
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\BubbleSortLambdaOrnek\BubbleSortLambdaOrnek\bin\Debug\BubbleSortLambdaOrnek.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\BubbleSortLambdaOrnek\BubbleSortLambdaOrnek\bin\Debug\BubbleSortLambdaOrnek.pdb
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\BubbleSortLambdaOrnek\BubbleSortLambdaOrnek\obj\Debug\BubbleSortLambdaOrnek.csproj.CoreCompileInputs.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\BubbleSortLambdaOrnek\BubbleSortLambdaOrnek\obj\Debug\BubbleSortLambdaOrnek.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\BubbleSortLambdaOrnek\BubbleSortLambdaOrnek\obj\Debug\BubbleSortLambdaOrnek.pdb

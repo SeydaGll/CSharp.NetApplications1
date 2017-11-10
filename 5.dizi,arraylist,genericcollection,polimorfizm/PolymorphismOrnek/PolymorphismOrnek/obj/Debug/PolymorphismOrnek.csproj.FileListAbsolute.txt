@@ -1,0 +1,7 @@
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\PolymorphismOrnek\PolymorphismOrnek\bin\Debug\PolymorphismOrnek.exe.config
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\PolymorphismOrnek\PolymorphismOrnek\bin\Debug\PolymorphismOrnek.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\PolymorphismOrnek\PolymorphismOrnek\bin\Debug\PolymorphismOrnek.pdb
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\PolymorphismOrnek\PolymorphismOrnek\obj\Debug\PolymorphismOrnek.csprojResolveAssemblyReference.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\PolymorphismOrnek\PolymorphismOrnek\obj\Debug\PolymorphismOrnek.csproj.CoreCompileInputs.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\PolymorphismOrnek\PolymorphismOrnek\obj\Debug\PolymorphismOrnek.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\PolymorphismOrnek\PolymorphismOrnek\obj\Debug\PolymorphismOrnek.pdb

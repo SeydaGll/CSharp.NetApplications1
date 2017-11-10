@@ -1,0 +1,35 @@
+Consol : bir sýnýftýr. içerisinde bu sýnýfa ait özellikler, metodlar vardýr. system.console 
+ise bu sýnýfýn tam adresidir.
+Örnek:
+Bir Telefon üreticisi
+Firma
+Telefon modeli
+rengi
+kamera
+kýzak durumu
+MP3 Çalar
+Dahili hAfýza
+
+bu örnekte olduðu gibi OOP Sayesinde telefona ait olan tüm özellikler bu kalýp haline ge
+tirilir. ve diðer telefonlar bu kalýp üzernden deðerlendirilir ve kayýt altýna alýnýr.
+
+Firma->Nokia
+Telf modeli->N96
+Rengi -> siyah
+Kamera->5MP
+Kýzak Durumu->Var
+Mp3->Var
+Dahili Hafýzasý->16 gb
+
+Telefon.Nokia  Telefon system bloðunu taþoyan ibaredir diyebiliriz.
+Telefon-->class
+Nokia-->Tlef mark-->Telefon.Marka = Nokia
+N96-->mODEL ÖZELLÝÐÝ-->Telefon.Model=N96
+5 MP-->kamera özelliði-->Telefon.Kamera=5MB
+
+örnek : merkez bankasý bir para basar iken sadece bir kalýptan bu paralarý basmaktadýr
+yani önceden tasarlanmýþ ve dizayn edilmiþ bir kalýýp ý vardr ve daha sonrasýnda milyonlarca
+lirayý sadece bu kalýp sayesinde basar... yani bunu bir fotokopi gibi herbirinin ayný
+özelliðini taþýyan deðelerin kalýptan geldiðini buradan söyleyebilriiz
+
+...

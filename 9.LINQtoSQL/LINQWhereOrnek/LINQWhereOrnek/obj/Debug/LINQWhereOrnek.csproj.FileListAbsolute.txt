@@ -1,0 +1,6 @@
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LINQWhereOrnek\LINQWhereOrnek\bin\Debug\LINQWhereOrnek.exe.config
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LINQWhereOrnek\LINQWhereOrnek\bin\Debug\LINQWhereOrnek.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LINQWhereOrnek\LINQWhereOrnek\bin\Debug\LINQWhereOrnek.pdb
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LINQWhereOrnek\LINQWhereOrnek\obj\Debug\LINQWhereOrnek.csproj.CoreCompileInputs.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LINQWhereOrnek\LINQWhereOrnek\obj\Debug\LINQWhereOrnek.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LINQWhereOrnek\LINQWhereOrnek\obj\Debug\LINQWhereOrnek.pdb

@@ -1,0 +1,8 @@
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\2.gün\WhileIleMetinOkuma\WhileIleMetinOkuma\bin\Debug\WhileIleMetinOkuma.exe.config
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\2.gün\WhileIleMetinOkuma\WhileIleMetinOkuma\bin\Debug\WhileIleMetinOkuma.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\2.gün\WhileIleMetinOkuma\WhileIleMetinOkuma\bin\Debug\WhileIleMetinOkuma.pdb
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\2.gün\WhileIleMetinOkuma\WhileIleMetinOkuma\obj\Debug\WhileIleMetinOkuma.csprojResolveAssemblyReference.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\2.gün\WhileIleMetinOkuma\WhileIleMetinOkuma\obj\Debug\WhileIleMetinOkuma.csproj.CoreCompileInputs.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\2.gün\WhileIleMetinOkuma\WhileIleMetinOkuma\obj\Debug\WhileIleMetinOkuma.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\2.gün\WhileIleMetinOkuma\WhileIleMetinOkuma\obj\Debug\WhileIleMetinOkuma.pdb
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\2.gün\WhileIleMetinOkuma\WhileIleMetinOkuma\bin\Debug\Metin.txt

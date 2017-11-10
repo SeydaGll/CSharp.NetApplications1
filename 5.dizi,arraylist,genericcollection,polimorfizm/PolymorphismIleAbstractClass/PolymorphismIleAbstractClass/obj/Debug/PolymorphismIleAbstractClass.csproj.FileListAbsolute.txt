@@ -1,0 +1,7 @@
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\PolymorphismIleAbstractClass\PolymorphismIleAbstractClass\bin\Debug\PolymorphismIleAbstractClass.exe.config
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\PolymorphismIleAbstractClass\PolymorphismIleAbstractClass\bin\Debug\PolymorphismIleAbstractClass.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\PolymorphismIleAbstractClass\PolymorphismIleAbstractClass\bin\Debug\PolymorphismIleAbstractClass.pdb
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\PolymorphismIleAbstractClass\PolymorphismIleAbstractClass\obj\Debug\PolymorphismIleAbstractClass.csprojResolveAssemblyReference.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\PolymorphismIleAbstractClass\PolymorphismIleAbstractClass\obj\Debug\PolymorphismIleAbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\PolymorphismIleAbstractClass\PolymorphismIleAbstractClass\obj\Debug\PolymorphismIleAbstractClass.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\PolymorphismIleAbstractClass\PolymorphismIleAbstractClass\obj\Debug\PolymorphismIleAbstractClass.pdb

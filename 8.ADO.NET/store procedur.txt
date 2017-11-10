@@ -1,0 +1,53 @@
+stored procedures(sp)
+bir veri tabaný deðeridir
+stored procedures = c# metodu
+   sql server         c#
+
+t-sql komutlarýnýn derlenmesi ile sp ler oluþur
+derlenince sql server üzerinde sp adlý klasörde saklanýr ve 
+sql server bileþenleri olarak anýlýr.aslýnda bunlar bir metoddur
+sql server üzerinde barýndýrýlan,t-sql komutlarý ile
+hazýrladýðýmýz sorgularýn derlenmesi anýnda otomatik olarak
+oluþan sql server bileþenleridir.
+bazý yazýlan kodlarýn ömrü vardýr.mesela select 
+iþlemini yapnca tekrar çaðýrýrsýn ama sp bir metod old için
+bir ömrü yoktur tekrar tekrar çaðýrýlýr
+1)veri tabaný taþýnýrken sp ile birlikte taþýnýr.adý saklý
+yordamdýr. veri tabanýyla birlikte bütün halince bulunur.
+baþka bilgisayara taþýnabilir. veri tabaný neredeyse sp ordadýr
+2)sadece 1 defa yazýlýrlar ve ssýnýrsýz sayýda çaðýrýlabilir
+3)sp ler sorgu hýzýný arttýrýr. sp sql server üzerinde
+barýndýrýlýr.iþlmecinin görevini sql server üstlenr
+4)güvenlik ve performans artýtýt
+5)að üzerindeki veri akýþýný azaltýr.farklýbilgisayarlarda
+bulunan veri tabnalrýna baðlanýrken ve sorg gönderirken
+veri iletiþiminde að trafiði artar. anca sp kullanýldýðý taktirde
+sadece metot çalýþýr ve sorgu akýþý olmaz. ve bu trafiðin yükünü
+sql server azaltmýþ olur
+sp nedenkullanýlýr?
+iþ gücünü sql server a yüklemek için
+performans ve hýz için
+sorgu güvenliði için
+metot tarzý sorgu yazmak için
+sadece bir defa yazmak ve snýrsýz kullnamk için
+
+c# daki metoddlar gibi metoda bir isim vericeksin
+c# da kodlar {} arasýna yazýlýyordu burda süslü parantez yerine
+begin end arasýna yazýlýr..
+
+create procedure MusteriListesi
+as
+begin 
+Select * From Musteriler
+end
+
+derlenince programmability içerisinde stored procedere
+de bulunuyor
+
+çaðýrýyruz..
+exec MusteriListesi
+
+
+
+
+sql server express ile compact edition arasýndaki farklar

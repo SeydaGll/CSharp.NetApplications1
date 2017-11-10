@@ -1,0 +1,7 @@
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LINQProjectionOrnek\LINQProjectionOrnek\bin\Debug\LINQProjectionOrnek.exe.config
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LINQProjectionOrnek\LINQProjectionOrnek\bin\Debug\LINQProjectionOrnek.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LINQProjectionOrnek\LINQProjectionOrnek\bin\Debug\LINQProjectionOrnek.pdb
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LINQProjectionOrnek\LINQProjectionOrnek\obj\Debug\LINQProjectionOrnek.csproj.CoreCompileInputs.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LINQProjectionOrnek\LINQProjectionOrnek\obj\Debug\LINQProjectionOrnek.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LINQProjectionOrnek\LINQProjectionOrnek\obj\Debug\LINQProjectionOrnek.pdb
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LINQProjectionOrnek\LINQProjectionOrnek\obj\Debug\LINQProjectionOrnek.csprojResolveAssemblyReference.cache

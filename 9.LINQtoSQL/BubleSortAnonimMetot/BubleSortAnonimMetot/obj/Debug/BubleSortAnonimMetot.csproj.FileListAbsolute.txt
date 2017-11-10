@@ -1,0 +1,6 @@
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\BubleSortAnonimMetot\BubleSortAnonimMetot\bin\Debug\BubleSortAnonimMetot.exe.config
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\BubleSortAnonimMetot\BubleSortAnonimMetot\bin\Debug\BubleSortAnonimMetot.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\BubleSortAnonimMetot\BubleSortAnonimMetot\bin\Debug\BubleSortAnonimMetot.pdb
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\BubleSortAnonimMetot\BubleSortAnonimMetot\obj\Debug\BubleSortAnonimMetot.csproj.CoreCompileInputs.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\BubleSortAnonimMetot\BubleSortAnonimMetot\obj\Debug\BubleSortAnonimMetot.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\BubleSortAnonimMetot\BubleSortAnonimMetot\obj\Debug\BubleSortAnonimMetot.pdb

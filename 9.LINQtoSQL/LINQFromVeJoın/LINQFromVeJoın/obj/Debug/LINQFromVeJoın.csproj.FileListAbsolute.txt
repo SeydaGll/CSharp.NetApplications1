@@ -1,0 +1,7 @@
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LINQFromVeJoın\LINQFromVeJoın\bin\Debug\LINQFromVeJoın.exe.config
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LINQFromVeJoın\LINQFromVeJoın\bin\Debug\LINQFromVeJoın.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LINQFromVeJoın\LINQFromVeJoın\bin\Debug\LINQFromVeJoın.pdb
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LINQFromVeJoın\LINQFromVeJoın\obj\Debug\LINQFromVeJoın.csprojResolveAssemblyReference.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LINQFromVeJoın\LINQFromVeJoın\obj\Debug\LINQFromVeJoın.csproj.CoreCompileInputs.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LINQFromVeJoın\LINQFromVeJoın\obj\Debug\LINQFromVeJoın.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LINQFromVeJoın\LINQFromVeJoın\obj\Debug\LINQFromVeJoın.pdb

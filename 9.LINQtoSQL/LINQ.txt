@@ -1,0 +1,44 @@
+Linq denilince akla veritabanlarý gelir ama sadece veritaban
+laraýna sorgu göndermekten öte dizilere koleksiyonlara xml e 
+de sorgu gönderebilirsin..
+Linq sadece bir veri tabaný deðeri deðildir
+Enumerable ve IEnumerable<T> deðerine sahip olan tüm nesneler
+için linq sorgularý geçerlidir..
+
+SQL Server databases             LINQ to SQL 
+htpp://msdn.microsoft.com
+XML document                     LINQ to XML
+ADO.NET datasets   	         LINQ to DataSet
+.NET Coleections,files,strings	 LINQ to Object
+
+LINQ avantajlarý nelerdýr?
+Büyük veri deðerlerini sorgulama imkaný
+arama iþlemlerini daha hýzlý ve güvenli
+performans saðlamaktadýr
+tip güvenliði saðlar- int deðeri ile bir arama yapýyorsanýz bunu string olarak ifade ettirmeyecektir
+her türlü veri arasýnda basit ve güvenli dönüþüm saðlar
+kod sayýsý azdýr ve daha dinamik kodlar yzmak için size olanak saðlar
+
+LINQ to Object bedir
+
+ENumerable ve INumerable<T> olarak deðerlendirilen
+verilerin sorgulamalarý için yazýlan sorgulardýr. bu deðerlere sahip olmalýdýrlar
+Diziler Koleksiyonlar bu duruma sahip olduðunda dolayý bunun sayesin 
+sorgulanabilir...
+Sýralý veriler sorgulanýr ve sonuçlar linq kalitesi ile kullanýma sunulur
+
+1) where(nerede): Kýsýtlama operatörleri.metod olarak bulunduðunu söyleyelim
+2)select(seç) :
+3)Group(grup): gruplama
+4)orderby,thenby,reverse : sýralama operatörleri
+5)take(al): veri alma,skip(atla): veri atlama,takewhile,skipwhile: bölümleme
+bunlarýn birebir kullanýmýnda birebir metodlarýnýn da olduðunu söyleyelim
+6)toArray,ToList,ToDictionary,OfType : dönüþtürme operatörleri
+bazý verileri döndermek için kullanýlýr
+7)distinct(farklý),union(birleþim),intersect(kesiþmek),except(hariç):
+küme oper
+c# içerisinde kullanacaðýmýz linq operatörleridir bunlar
+8)Count(sayý),Sum(Topla),Min,Max,Average(ortalama),fold(kat): grup
+9)Any(herhangi),All(Hepsi): ölçüm
+10)First(ilk),FirstOrDefault,ElementAt: eleman opr
+

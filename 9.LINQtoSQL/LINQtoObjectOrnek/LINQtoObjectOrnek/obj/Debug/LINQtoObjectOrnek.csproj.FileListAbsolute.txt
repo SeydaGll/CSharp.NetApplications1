@@ -1,0 +1,7 @@
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LINQtoObjectOrnek\LINQtoObjectOrnek\bin\Debug\LINQtoObjectOrnek.exe.config
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LINQtoObjectOrnek\LINQtoObjectOrnek\bin\Debug\LINQtoObjectOrnek.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LINQtoObjectOrnek\LINQtoObjectOrnek\bin\Debug\LINQtoObjectOrnek.pdb
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LINQtoObjectOrnek\LINQtoObjectOrnek\obj\Debug\LINQtoObjectOrnek.csprojResolveAssemblyReference.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LINQtoObjectOrnek\LINQtoObjectOrnek\obj\Debug\LINQtoObjectOrnek.csproj.CoreCompileInputs.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LINQtoObjectOrnek\LINQtoObjectOrnek\obj\Debug\LINQtoObjectOrnek.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\9.gün\LINQtoObjectOrnek\LINQtoObjectOrnek\obj\Debug\LINQtoObjectOrnek.pdb

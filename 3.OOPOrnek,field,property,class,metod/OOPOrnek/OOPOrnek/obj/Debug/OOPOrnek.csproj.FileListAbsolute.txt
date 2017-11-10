@@ -1,0 +1,14 @@
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\OOPOrnek\OOPOrnek\bin\Debug\OOPOrnek.exe.config
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\OOPOrnek\OOPOrnek\bin\Debug\OOPOrnek.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\OOPOrnek\OOPOrnek\bin\Debug\OOPOrnek.pdb
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\OOPOrnek\OOPOrnek\obj\Debug\OOPOrnek.csprojResolveAssemblyReference.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\OOPOrnek\OOPOrnek\obj\Debug\OOPOrnek.csproj.CoreCompileInputs.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\OOPOrnek\OOPOrnek\obj\Debug\OOPOrnek.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\OOPOrnek\OOPOrnek\obj\Debug\OOPOrnek.pdb
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\3.gün\OOPOrnek\OOPOrnek\bin\Debug\OOPOrnek.exe.config
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\3.gün\OOPOrnek\OOPOrnek\bin\Debug\OOPOrnek.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\3.gün\OOPOrnek\OOPOrnek\bin\Debug\OOPOrnek.pdb
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\3.gün\OOPOrnek\OOPOrnek\obj\Debug\OOPOrnek.csprojResolveAssemblyReference.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\3.gün\OOPOrnek\OOPOrnek\obj\Debug\OOPOrnek.csproj.CoreCompileInputs.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\3.gün\OOPOrnek\OOPOrnek\obj\Debug\OOPOrnek.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\3.gün\OOPOrnek\OOPOrnek\obj\Debug\OOPOrnek.pdb

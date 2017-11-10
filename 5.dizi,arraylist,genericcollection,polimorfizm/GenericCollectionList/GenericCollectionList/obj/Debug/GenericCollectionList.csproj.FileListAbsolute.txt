@@ -1,0 +1,7 @@
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\GenericCollectionList\GenericCollectionList\bin\Debug\GenericCollectionList.exe.config
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\GenericCollectionList\GenericCollectionList\bin\Debug\GenericCollectionList.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\GenericCollectionList\GenericCollectionList\bin\Debug\GenericCollectionList.pdb
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\GenericCollectionList\GenericCollectionList\obj\Debug\GenericCollectionList.csprojResolveAssemblyReference.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\GenericCollectionList\GenericCollectionList\obj\Debug\GenericCollectionList.csproj.CoreCompileInputs.cache
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\GenericCollectionList\GenericCollectionList\obj\Debug\GenericCollectionList.exe
+C:\Users\DragonGTX1050\Documents\Visual Studio 2017\Projects\1.ILKERISIK\5.gün\GenericCollectionList\GenericCollectionList\obj\Debug\GenericCollectionList.pdb
